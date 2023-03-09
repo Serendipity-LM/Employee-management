@@ -9,4 +9,5 @@ public:
     int m_ID;
     string name;
     int m_deptID;
+    virtual ~Worker(){};
 };
